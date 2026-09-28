@@ -1,8 +1,6 @@
-# Evolucion-de-Opinion-Publica-y-Desempeno-del-Oficialismo -UDESA-y-Bloomberg/AtlasIntel
+<div>
 
-<a href="https://pepo1996.github.io/Evolucion-de-Opinion-Publica-y-Desempeno-del-Oficialismo-Udesa-y-Atlas-Intel-Bloomberg/grafico_aprobacion_san_andres.html">
-    <img src="imagenes/san_andres_preview.png" width="700">
-</a>
+::: {#5fa765d2-d74e-47a7-a0e5-dbc73c542344 .plotly-graph-div style="height:100%; width:100%;"}
+:::
 
-
-
+</div>
