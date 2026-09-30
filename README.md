@@ -1,6 +1,2 @@
-<div>
+<img width="901" height="414" alt="image" src="https://github.com/user-attachments/assets/11cf3da8-95d0-442b-9c29-d9e1b202b4da" />
 
-::: {#5fa765d2-d74e-47a7-a0e5-dbc73c542344 .plotly-graph-div style="height:100%; width:100%;"}
-:::
-
-</div>
